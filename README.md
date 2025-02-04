@@ -1,7 +1,7 @@
 # ¡Hola! 👋
 
 ## Sobre mí
-Hola, soy [Tu Nombre]. Me apasiona la tecnología, el aprendizaje continuo y explorar nuevas ideas. 
+Hola, soy . Me apasiona la tecnología, el aprendizaje continuo y explorar nuevas ideas. 
 
 ## Intereses
 - 💻 Programación y desarrollo de software
