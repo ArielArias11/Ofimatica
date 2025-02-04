@@ -14,8 +14,12 @@ Hola, somos Steve Bahamonde, Josue Naranjo y Ariel Arias . Nos apasiona la tecno
 - Aprendizaje continuo 📚�
 - Creatividad--Diseñar 🎨🚀
 - Trabajo en equipo--Comunicarse 🤝💬
-  
-AQUI VA SU PARTE
+
+## Habilidades
+- Adaptabilidad 💡
+- Pensamiento critico 🧠🎯
+- Responsabilidad 📚✔︎
+- Creatividad 🖌️
   
 ¡Gracias por visitar mi perfil! 😊
 
