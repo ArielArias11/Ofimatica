@@ -8,6 +8,8 @@ Hola, somos Jostin Bahamonde, Josue Naranjo y Ariel Arias . Nos apasiona la tecn
 - 📚 Lectura y crecimiento personal
 - 🎵 Música y arte
 - 🌍 Viajar y conocer nuevas culturas
+
+AQUI VA SU PARTE
   
 ¡Gracias por visitar mi perfil! 😊
 
