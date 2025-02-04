@@ -1,7 +1,7 @@
 # ¡Hola! 👋
 
-## Sobre mí
-Hola, soy . Me apasiona la tecnología, el aprendizaje continuo y explorar nuevas ideas. 
+## Sobre nosotros
+Hola, somos Jostin Bahamonde, Josue Naranjo y Ariel Arias . Nos apasiona la tecnología, el aprendizaje continuo y explorar nuevas ideas. 
 
 ## Intereses
 - 💻 Programación y desarrollo de software
